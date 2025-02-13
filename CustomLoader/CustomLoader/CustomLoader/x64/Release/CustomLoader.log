@@ -1,9 +1,0 @@
-﻿  CustomLoader.cpp
-C:\Users\hacker\Desktop\Arsenal\Loders\CustomLoader\CustomLoader\CustomLoader.cpp(60,47): warning C4838: la conversión de 'unsigned __int64' en 'DWORD' requiere una conversión de restricción
-C:\Users\hacker\Desktop\Arsenal\Loders\CustomLoader\CustomLoader\CustomLoader.cpp(60,47): warning C4267: 'inicializando': conversión de 'size_t' a 'DWORD'; posible pérdida de datos
-  Generando código
-  0 of 235 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Generación de código finalizada
-  CustomLoader.vcxproj -> C:\Users\hacker\Desktop\Arsenal\Loders\CustomLoader\CustomLoader\x64\Release\CustomLoader.exe
